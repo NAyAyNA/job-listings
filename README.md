@@ -4,7 +4,12 @@
 Turbostart Assignment
 
 ## Demo
-  link: https://glittering-cupcake-cafb26.netlify.app/ 
+  link: https://glittering-cupcake-cafb26.netlify.app/
+
+## Features implemented
+* Fetches and displays a list of jobs using Axios from an API.
+* Implements routing using react-router-dom for navigating between pages like Home, Job Details, Job Application, About, Success, and Not Found pages.
+* Allows users to apply for jobs.
 
 ## Getting Started
 
