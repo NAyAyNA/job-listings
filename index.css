@@ -1,0 +1,104 @@
+/* styles.css */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #5F5C4D;
+  margin: 0;
+  padding: 0;
+}
+
+h1 {
+  color: #EEF1EF;
+}
+
+div {
+  padding: 40px;
+  text-align: left;
+}
+
+.about {
+    color: #A9B4C2;
+    font-size: 14px;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+.about:hover {
+    color: #EEF1EF;
+}
+
+.job {
+  display: block;
+  background-color: #A9B4C2;
+  color: black;
+  padding: 10px;
+  margin-bottom: 10px;
+  text-decoration: none;
+  border-radius: 5px;
+}
+
+.job:hover {
+  background-color: #EEF1EF;
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+input {
+    width: 35%;
+    height: 40px;
+    border-radius: 5px;
+    text-decoration: none;
+}
+
+.apply-btn {
+    width: 110px;
+    background-color: #A9B4C2;
+    color: black;
+    padding: 10px;
+    margin: 20px 0px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.apply-btn:hover {
+    background-color: #EEF1EF;
+}
+
+.submit-btn {
+    width: 120px;
+    display: block;
+    background-color: #A9B4C2;
+    color: black;
+    padding: 10px;
+    margin-bottom: 10px;
+    text-decoration: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.submit-btn:hover {
+    background-color: #EEF1EF;
+}
+
+.details {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+}
+
+.back-btn {
+    width: 170px;
+    background-color: #A9B4C2;
+    color: black;
+    padding: 10px;
+    margin-top: 50px;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.back-btn:hover {
+  background-color: #EEF1EF;
+}
